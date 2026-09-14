@@ -1,0 +1,27 @@
+{
+  "brand": "Te Equipamos",
+  "items": [
+    {
+      "active": true,
+      "type": "sale",
+      "sections": [
+        "Ventas",
+        "Novedades"
+      ],
+      "title": "Mesh, ligereza y un diseño clásico: una zapatilla pensada para moverse sin complicarse",
+      "summary": "PLAYER T MESH mujer con upper ventilado y enfoque urbano y casual.",
+      "details": "Landing de venta de Te Equipamos con tallas, ficha visual y acceso a consulta.",
+      "image": "https://contents.mediadecathlon.com/p3031261/k$fbc2b2d701990c8100416d234336dc80/picture.jpg?f=1600x0&format=auto",
+      "time": "Producto · Mujer",
+      "score": 88,
+      "featured": false,
+      "direct": true,
+      "tags": [
+        "zapatillas",
+        "mujer",
+        "mesh"
+      ],
+      "url": "https://jorgesport.github.io/te-equipamos-player-t-mesh/"
+    }
+  ]
+}
